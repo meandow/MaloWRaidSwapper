@@ -1,0 +1,8 @@
+## Interface: 88888
+## Title: MaloWRaidSwapper
+## DefaultState: enabled
+## Notes: This is a raid swapper mod.
+## Version 1
+## Author: MaloW
+MaloWRaidSwapper.xml
+MaloWRaidSwapper.lua
